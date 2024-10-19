@@ -44,9 +44,6 @@
     <img src="https://imgur.com/gDMGiJ7.png" width="250" height="50" alt="Instagram">
 </a>
 <a href="https://github.com/marcosgb9" target="_blank">
-    <img src="https://imgur.com/hnoFB46.png" width="250" height="50" alt="Twitter">
-</a>
-<a href="https://github.com/marcosgb9" target="_blank">
     <img src="https://imgur.com/o5TDUWJ.png" width="250" height="50" alt="Twitch">
 </a>
 
